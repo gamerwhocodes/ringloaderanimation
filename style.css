@@ -62,17 +62,17 @@ p {
 
 @keyframes stroke-draw {
     0% {
-        stroke: #8a3ab9;
+        stroke: #0876F5;
         stroke-dasharray: 315;
         stroke-dashoffset: -315;
     }
     50% {
-        stroke: #cd486b;
+        stroke: #F5082C;
         stroke-dasharray: 315;
         stroke-dashoffset: 0;
     }
     100% {
-        stroke: #8a3ab9;
+        stroke: #0876F5;
         stroke-dasharray: 315;
         stroke-dashoffset: 315;
     }
